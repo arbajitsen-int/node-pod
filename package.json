@@ -9,7 +9,18 @@
   "bin": {
     "node-pod": "./dist/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "express",
+    "typescript",
+    "backend",
+    "cli",
+    "scaffold"
+  ],
+  "files": [
+    "dist",
+    "templates"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
